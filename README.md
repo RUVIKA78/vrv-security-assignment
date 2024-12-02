@@ -27,3 +27,5 @@ Fully responsive UI for seamless experience across desktop, tablet, and mobile d
 6. Mock API Integration
 Simulated API calls for CRUD operations on users and roles.
 Validates core functionality using mocked server responses.
+
+![{23F7B3A7-8A59-4899-9C52-00E1DE7DB6A8}](https://github.com/user-attachments/assets/a97680e0-3956-47f4-a378-7d556373e6bb)
